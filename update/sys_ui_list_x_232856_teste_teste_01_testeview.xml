@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_232856_teste_teste_01" version="2" view="testeview">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>id</element>
+            <list_id display_value="x_232856_teste_teste_01" element="NULL" name="x_232856_teste_teste_01" parent="NULL" relationship="NULL" sys_domain="global" view="6c6d01014faa13007337b4a18110c7e8">206d49014faa13007337b4a18110c73b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-05 13:14:00</sys_created_on>
+            <sys_id>b86d49014faa13007337b4a18110c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-05 13:14:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>nome</element>
+            <list_id display_value="x_232856_teste_teste_01" element="NULL" name="x_232856_teste_teste_01" parent="NULL" relationship="NULL" sys_domain="global" view="6c6d01014faa13007337b4a18110c7e8">206d49014faa13007337b4a18110c73b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-05 13:14:00</sys_created_on>
+            <sys_id>306d49014faa13007337b4a18110c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-05 13:14:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_232856_teste_teste_01</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-05 13:13:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>206d49014faa13007337b4a18110c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_232856_teste_teste_01</sys_name>
+            <sys_package display_value="TESTE" source="x_232856_teste">c4ffac704f2213007337b4a18110c7be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TESTE">c4ffac704f2213007337b4a18110c7be</sys_scope>
+            <sys_update_name>sys_ui_list_x_232856_teste_teste_01_testeview</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-05 13:13:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="TesteVIEW" name="testeview">6c6d01014faa13007337b4a18110c7e8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
