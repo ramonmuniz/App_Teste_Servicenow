@@ -12,7 +12,13 @@
         <order/>
         <script><![CDATA[function onLoad() {
 
-	alert(g_user.getFullName());
+	alert('Início da query menor que 3!');
+	
+	var gr = new GlideRecord('x_232856_teste_teste_01');
+	
+	gr.addQuery('quantidade','<','3');
+	
+	
 
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -21,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5604e5494faa13007337b4a18110c7a1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Modulo_1_Script_2</sys_name>
         <sys_overrides/>
         <sys_package display_value="TESTE" source="x_232856_teste">c4ffac704f2213007337b4a18110c7be</sys_package>
@@ -29,7 +35,7 @@
         <sys_scope display_value="TESTE">c4ffac704f2213007337b4a18110c7be</sys_scope>
         <sys_update_name>sys_script_client_5604e5494faa13007337b4a18110c7a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-05 14:55:12</sys_updated_on>
+        <sys_updated_on>2018-06-07 13:21:16</sys_updated_on>
         <table>x_232856_teste_teste_01</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>

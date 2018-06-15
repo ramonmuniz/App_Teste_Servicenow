@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description/>
+        <flush_cache>false</flush_cache>
+        <name>Script_Fix_1</name>
+        <run_once>true</run_once>
+        <script><![CDATA[gs.addInfoMessage("Testando o script!!!!!");]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 15:12:52</sys_created_on>
+        <sys_id>e59b7f214f6213003b2c0fbf9310c713</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Script_Fix_1</sys_name>
+        <sys_package display_value="TESTE" source="x_232856_teste">c4ffac704f2213007337b4a18110c7be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TESTE">c4ffac704f2213007337b4a18110c7be</sys_scope>
+        <sys_update_name>sys_script_fix_e59b7f214f6213003b2c0fbf9310c713</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 15:12:52</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
